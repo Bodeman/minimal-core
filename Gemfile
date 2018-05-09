@@ -1,2 +1,2 @@
-source "https://rubygems.org"
-gemspec
+source "http://rubygems.org"
+gem "minimal-mistakes-jekyll"
