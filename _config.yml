@@ -49,7 +49,7 @@ atom_feed:
 
 #Theme
 theme                   :   "minimal-mistakes-jekyll"
-minimal_mistakes_skin   :   "dark"
+minimal_mistakes_skin   :   "air"
 
 # SEO Related
 google_site_verification :
